@@ -1,0 +1,3 @@
+node_modules/
+.DS_Store
+MONGODB_ATLAS_URI=mongodb+srv://<Ana>:<Lisboa.16>@cluster0.o06auxm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
